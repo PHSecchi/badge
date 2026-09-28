@@ -1,4 +1,4 @@
-# Cyber Badge — BSides Curitiba 2026
+# Badge — BSides Curitiba 2026
 
 Crachá eletrônico interativo desenvolvido para a conferência de segurança da informação **BSides Curitiba 2026**.
 
